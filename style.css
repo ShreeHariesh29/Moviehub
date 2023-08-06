@@ -1,0 +1,13 @@
+#lang{
+    flex-wrap: wrap;
+}
+@media screen and (min-width: 400px ){
+    #caroselitem{
+        display: block;
+
+    }
+    
+}
+#caroselitem{
+
+}
